@@ -1,0 +1,313 @@
+{
+  "state_vector": [
+    {
+      "tag": "Tour 2 ngày 1 đêm",
+      "patterns": ["tour 2 ngay 1 dem", "2n1d", "2N1D"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm",
+      "patterns": ["tour 3 ngay 2 dem", "3n2d", "3N2D"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm",
+      "patterns": ["tour 4 ngay 3 dem", "4n3d", "4N3D"]
+    },
+    {
+      "tag": "Tour 5 ngày 4 đêm",
+      "patterns": ["tour 5 ngay 4 dem", "5n4d", "5N4D"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A1",
+      "patterns": ["a1", "A1", "2 ngày 1 đêm A1", "2 ngày 1 đêm a1"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A2",
+      "patterns": ["2 ngày 1 đêm A2", "2 ngày 1 đêm a2", "A2", "a2"]
+    },
+    {
+      "tag": "Tour 2 ngày 1 đêm A3",
+      "patterns": ["a3", "A3", "2 ngày 1 đêm A3", "2 ngày 1 đêm a3"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B1",
+      "patterns": ["b1", "B1", "3 ngày 2 đêm B1", "3 ngày 2 đêm b1"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B2",
+      "patterns": ["b2", "B2", "3 ngày 2 đêm B2", "3 ngày 2 đêm b2"]
+    },
+    {
+      "tag": "Tour 3 ngày 2 đêm B3",
+      "patterns": ["b2", "B2", "3 ngày 2 đêm B2", "3 ngày 2 đêm b2"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C1",
+      "patterns": ["C1", "c1", "4 ngày 3 đêm C1", "4 ngày 3 đêm c1"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C2",
+      "patterns": ["C2", "c2", "4 ngày 3 đêm C2", "4 ngày 3 đêm c2"]
+    },
+    {
+      "tag": "Tour 4 ngày 3 đêm C3",
+      "patterns": ["C3", "c3", "4 ngày 3 đêm C3", "4 ngày 3 đêm c3"]
+    },
+    {
+      "tag": "Tour 5 ngày 4 đêm D1",
+      "patterns": ["D1", "d1", "5 ngày 4 đêm D1", "5 ngày 4 đêm d1"]
+    },
+    {
+      "tag": "Trẻ em tour 2 ngày 1 đêm A1",
+      "patterns": [
+        "tre em 2 ngay 1 dem A1",
+        "tre em 2 ngay 1 dem a1",
+        "tre em 2n1d a1",
+        "tre em 2n1d A1",
+        "tre em A1",
+        "tre em a1"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 2 ngày 1 đêm A2",
+      "patterns": [
+        "tre em 2 ngay 1 dem A2",
+        "tre em 2 ngay 1 dem a2",
+        "tre em 2n1d a2",
+        "tre em 2n1d A2",
+        "tre em A2",
+        "tre em a2"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 2 ngày 1 đêm A3",
+      "patterns": [
+        "tre em 2 ngay 1 dem A3",
+        "tre em 2 ngay 1 dem a3",
+        "tre em 2n1d a3",
+        "tre em 2n1d A3",
+        "tre em A3",
+        "tre em a3"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 3 ngày 2 đêm B1",
+      "patterns": [
+        "tre em 3 ngay 2 dem B1",
+        "tre em 3 ngay 2 dem b1",
+        "tre em 3n2d b1",
+        "tre em 3n2d B1",
+        "tre em B1",
+        "tre em b1"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 3 ngày 2 đêm B2",
+      "patterns": [
+        "tre em 3 ngay 2 dem B2",
+        "tre em 3 ngay 2 dem b2",
+        "tre em 3n2d b2",
+        "tre em 3n2d B2",
+        "tre em B2",
+        "tre em b2"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 3 ngày 2 đêm B3",
+      "patterns": [
+        "tre em 3 ngay 2 dem B3",
+        "tre em 3 ngay 2 dem b3",
+        "tre em 3n2d b3",
+        "tre em 3n2d B3",
+        "tre em B3",
+        "tre em b3"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 4 ngày 3 đêm C1",
+      "patterns": [
+        "tre em 4 ngay 3 dem C1",
+        "tre em 4 ngay 3 dem c1",
+        "tre em 4n3d c1",
+        "tre em 4n3d C1",
+        "tre em C1",
+        "tre em c1"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 4 ngày 3 đêm C2",
+      "patterns": [
+        "tre em 4 ngay 3 dem C2",
+        "tre em 4 ngay 3 dem c2",
+        "tre em 4n3d c2",
+        "tre em 4n3d C2",
+        "tre em C2",
+        "tre em c2"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 4 ngày 3 đêm C3",
+      "patterns": [
+        "tre em 4 ngay 3 dem C3",
+        "tre em 4 ngay 3 dem c3",
+        "tre em 4n3d c3",
+        "tre em 4n3d C3",
+        "tre em C3",
+        "tre em c3"
+      ]
+    },
+    {
+      "tag": "Trẻ em tour 5 ngày 4 đêm D1",
+      "patterns": [
+        "tre em 5 ngay 4 dem D1",
+        "tre em 5 ngay 4 dem d1",
+        "tre em 5n4d d1",
+        "tre em 5n4d D1",
+        "tre em D1",
+        "tre em d1"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 2 ngày 1 đêm A1",
+      "patterns": [
+        "nguoi cao tuoi 2 ngay 1 dem A1",
+        "nguoi cao tuoi 2 ngay 1 dem a1",
+        "nguoi cao tuoi 2n1d a1",
+        "nguoi cao tuoi 2n1d A1",
+        "nguoi cao tuoi A1",
+        "nguoi cao tuoi a1"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 2 ngày 1 đêm A2",
+      "patterns": [
+        "nguoi cao tuoi 2 ngay 1 dem A2",
+        "nguoi cao tuoi 2 ngay 1 dem a2",
+        "nguoi cao tuoi 2n1d a2",
+        "nguoi cao tuoi 2n1d A2",
+        "nguoi cao tuoi A2",
+        "nguoi cao tuoi a2"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 2 ngày 1 đêm A3",
+      "patterns": [
+        "nguoi cao tuoi 2 ngay 1 dem A3",
+        "nguoi cao tuoi 2 ngay 1 dem a3",
+        "nguoi cao tuoi 2n1d a3",
+        "nguoi cao tuoi 2n1d A3",
+        "nguoi cao tuoi A3",
+        "nguoi cao tuoi a3"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 3 ngày 2 đêm B1",
+      "patterns": [
+        "nguoi cao tuoi 3 ngay 2 dem B1",
+        "nguoi cao tuoi 3 ngay 2 dem b1",
+        "nguoi cao tuoi 3n2d b1",
+        "nguoi cao tuoi 3n2d B1",
+        "nguoi cao tuoi B1",
+        "nguoi cao tuoi b1"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 3 ngày 2 đêm B2",
+      "patterns": [
+        "nguoi cao tuoi 3 ngay 2 dem B2",
+        "nguoi cao tuoi 3 ngay 2 dem b2",
+        "nguoi cao tuoi 3n2d b2",
+        "nguoi cao tuoi 3n2d B2",
+        "nguoi cao tuoi B2",
+        "nguoi cao tuoi b2"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 3 ngày 2 đêm B3",
+      "patterns": [
+        "nguoi cao tuoi 3 ngay 2 dem B3",
+        "nguoi cao tuoi 3 ngay 2 dem b3",
+        "nguoi cao tuoi 3n2d b3",
+        "nguoi cao tuoi 3n2d B3",
+        "nguoi cao tuoi B3",
+        "nguoi cao tuoi b3"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 4 ngày 3 đêm C1",
+      "patterns": [
+        "nguoi cao tuoi 4 ngay 3 dem C1",
+        "nguoi cao tuoi 4 ngay 3 dem c1",
+        "nguoi cao tuoi 4n3d c1",
+        "nguoi cao tuoi 4n3d C1",
+        "nguoi cao tuoi C1",
+        "nguoi cao tuoi c1"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 4 ngày 3 đêm C2",
+      "patterns": [
+        "nguoi cao tuoi 4 ngay 3 dem C2",
+        "nguoi cao tuoi 4 ngay 3 dem c2",
+        "nguoi cao tuoi 4n3d c2",
+        "nguoi cao tuoi 4n3d C2",
+        "nguoi cao tuoi C2",
+        "nguoi cao tuoi c2"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 4 ngày 3 đêm C3",
+      "patterns": [
+        "nguoi cao tuoi 4 ngay 3 dem C3",
+        "nguoi cao tuoi 4 ngay 3 dem c3",
+        "nguoi cao tuoi 4n3d c3",
+        "nguoi cao tuoi 4n3d C3",
+        "nguoi cao tuoi C3",
+        "nguoi cao tuoi c3"
+      ]
+    },
+    {
+      "tag": "Người cao tuổi tour 5 ngày 4 đêm D1",
+      "patterns": [
+        "nguoi cao tuoi 5 ngay 4 dem D1",
+        "nguoi cao tuoi 5 ngay 4 dem d1",
+        "nguoi cao tuoi 5n4d d1",
+        "nguoi cao tuoi 5n4d D1",
+        "nguoi cao tuoi D1",
+        "nguoi cao tuoi d1"
+      ]
+    },
+    {
+      "tag": "My khue beach",
+      "patterns": [
+        "my khue beach",
+        "bien my khue",
+        "My Khue Beach",
+        "My khue beach"
+      ]
+    },
+    {
+      "tag": "Ngu Hanh Son",
+      "patterns": ["Ngu Hanh Son", "ngu hanh son"]
+    },
+    {
+      "tag": "bai but",
+      "patterns": ["Bai But", "BAI BUT"]
+    },
+    {
+      "tag": "ba na",
+      "patterns": ["Ba Na", "BA NA"]
+    },
+    {
+      "tag": "nui than tai",
+      "patterns": ["NUI THAN TAI", "Nui Than Tai"]
+    },
+    {
+      "tag": "rung dua bay mau",
+      "patterns": ["RUNG DUA BAY MAU", "Rung Dua Bay Mau"]
+    },
+    {
+      "tag": "cu lao cham",
+      "patterns": ["CU LAO CHAM", "Cu Lao Cham"]
+    }
+  ]
+}

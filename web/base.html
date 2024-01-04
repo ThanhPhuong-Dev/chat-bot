@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="style.css" />
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>Chatbot</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <script
+      src="https://kit.fontawesome.com/cf490cc296.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <div class="home-page">
+      <div class="header">
+          <div class="header__inner">
+              <div class="header__logo">
+                  <img src="images/logo/logo.png" alt="logo">
+              </div>
+              <div class="header__action">
+                  <ul class="action-list">
+                      <li class="action-item select">
+                          <span>TOUR DU LỊCH ĐÀ NẴNG 
+
+                              <i class='bx bxs-chevron-down'></i>
+                          </span>
+                          <div class="notify">
+                              <div class="notify-item">
+                                  Tour 1 ngafy
+                              </div>
+                              <div class="notify-item">
+                                  Tour 1 ngafy
+                              </div>
+                              <div class="notify-item">
+                                  Tour 1 ngafy
+                              </div>
+                              <div class="notify-item">
+                                  Tour 1 ngafy
+                              </div>
+                          </div>
+                      </li>
+                      
+                      <li class="action-item">THUÊ XE Ô TÔ DU LỊCH ĐÀ NẴNG
+                      </li>
+                      <li class="action-item">ĐẶC SẢN ĐÀ NẴNG
+                      </li>
+                      <li class="action-item">VÉ DU LỊCH ĐÀ NẴNG
+                      </li>
+                      <li class="action-item">TOUR DU LỊCH HUẾ
+                      </li>
+                      <li class="action-item">TOUR DU LỊCH HỘI AN
+                      </li>
+                      
+                  </ul>
+              </div>
+          </div>
+      </div>
+      <div class="main-content">
+          <div class="slide-show">
+              <img src="https://danangbest.com/uploads/banner-danangbest.webp" alt="">
+          </div>
+          <h1 class="tour">Tour 1 ngày</h1>
+          <div class="product" id="productContainer"></div>
+          <h1 class="tour">Tour 2 ngày</h1>
+          <div class="product" id="productContainer2"></div>
+          <h1 class="tour">Tour 3 ngày</h1>
+          <div class="product" id="productContainer3"></div>
+      </div>
+      <footer class="footer">
+        <div class="grid">
+            <div class="grid__row">
+                <div class="grid__column-2-4">
+                    <div class="footer-info">
+                        <h3 class="footer-heading">Chăm Sóc Khách Hàng</h3>
+                        <ul class="footer-list">
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Trung Tâm Trợ Giúp</a>
+                            </li>
+                                <a href="" class="footer-list-item__link">Shopee Blog</a>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Shopee Mall</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Hướng Dẫn Mua Hàng</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Hướng Dẫn Bán Hàng</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Chăm Sóc Khách Hàng</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="grid__column-2-4">
+                    <div class="footer-info">
+                        <h3 class="footer-heading">Về Shoppe</h3>
+                        <ul class="footer-list">
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Giới Thiệu Về Shopee Việt Nam</a>
+                            </li>
+                                <a href="" class="footer-list-item__link">Điều Khoản Shopee</a>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Chính Hãng</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Flash Sales</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Chương Trình Tiếp Thị Liên Kết Shopee</a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">Liên Hệ Với Truyền Thông</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="grid__column-2-4">
+                    <div class="footer-info">
+                        <h3 class="footer-heading">Thanh Toán</h3>
+                        <div class="footer-pay">
+                            <img src="./assets/img/visa.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/spay.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/tragop.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/code.png" alt="" class="footer-pay__img">
+                        </div>
+                        <h3 class="footer-heading">Đơn Vị Vận Chuyển</h3>
+                        <div class="footer-pay">
+                            <img src="./assets/img/transport1.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/transport2.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/transport3.jpg" alt="" class="footer-pay__img">
+                            <img src="./assets/img/transport4.png" alt="" class="footer-pay__img">
+                            <img src="./assets/img/transport5.png" alt="" class="footer-pay__img">                       
+                        </div>                            
+                    </div>
+                </div>
+                <div class="grid__column-2-4">
+                    <div class="footer-info">                     
+                        <h3 class="footer-heading">Theo Dõi Chúng Tôi Trên</h3>
+                        <ul class="footer-list">
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">
+                                    <i class="footer-list-item__icon fa-brands fa-facebook"></i>
+                                    <span>Facebook</span>
+                                    
+                                </a>
+                            </li>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">
+                                    <i class="footer-list-item__icon fa-brands fa-square-instagram"></i>
+                                    <span>Instagram</span>
+                                    
+                            </li>
+                                </a>
+                            <li class="footer-list-item">
+                                <a href="" class="footer-list-item__link">
+                                    <i class="footer-list-item__icon fa-brands fa-linkedin"></i>
+                                    <span>Linkedin</span>
+                                    
+                                </a>
+                            </li>                               
+                        </ul>                                                       
+                    </div>
+
+                </div>
+                <div class="grid__column-2-4">
+                    <div class="footer-info">                          
+                        <h3 class="footer-heading">TẢI ỨNG DỤNG SHOPEE NGAY THÔI</h3>
+                        <div class="footer-code">
+                            <img src="./assets/img/qr-code1.png" alt="" class="footer-qr_img">
+                            <div class="footer-application">
+                                <a href="" class="footer-application__link">
+                                    <img src="./assets/img/ch_play.png" alt="" class="footer-application_img">
+                                </a>
+                                <a href="" class="footer-application__link">
+                                    <img src="./assets/img/app_store.png" alt="" class="footer-application_img">
+                                </a>
+                                <img src="./assets/img/appgallery.png" alt="" class="footer-application_img">
+                            </div>
+                        </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </footer>
+  </div>
+    <!-- ChatBot -->
+    <div class="chatbot-dtu">
+      <div class="chatbox">
+        <div class="chatbox__support">
+          <div class="chatbox__header">
+            <div class="chatbox__image--header">
+              <img src="./images/avatar/anh1.png" alt="tv1" class="avatar" />
+            </div>
+            <div class="chatbox__content--header">
+              <h4 class="chatbox__heading--header">DANANGTOURIST</h4>
+              <p class="chatbox__description--header">
+                DANANG TOURIST CHATBOT XIN CHAO"
+              </p>
+            </div>
+          </div>
+          <div class="chatbox__messages">
+            <!-- <div class="messages__item messages__item--visitor"></div> -->
+          </div>
+          <div class="chatbox__footer">
+            <input type="text" placeholder="Write a message..." />
+            <button class="chatbox__send--footer send__button">Send</button>
+          </div>
+        </div>
+        <div class="chatbox__button">
+          <button><img src="./images/chatbox-icon.svg" /></button>
+        </div>
+      </div>
+    </div>
+    <script src="./app.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+      integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

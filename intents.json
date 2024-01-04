@@ -1,0 +1,362 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Xin chào ad",
+        "Chào admin",
+        "Ad ơi",
+        "hi",
+        "hello",
+        "có ai ở đây không ạ",
+        "bắt đầu",
+        "Hey!",
+        "ad ơi em muốn tư vấn tour với ạ",
+        "ai có thể giúp em không",
+        "dạ cho em hỏi",
+        "cho hỏi có ai chat được bây giờ không",
+        "em cần tư vấn ạ",
+        "làm ơn giúp em",
+        "em đang cần một ít thông tin",
+        "chào ad, em có một câu hỏi",
+        "em có một vấn đề cần được giải thích"
+      ],
+      "responses": [
+        "Chào bạn, DANANG tourist chuyên về các tour của thành phố Đà Nẵng xin nghe.Mình có thể giúp gì cho bạn được ạ"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "goodbye",
+        "good bye",
+        "Tạm biệt",
+        "Bai",
+        "pp",
+        "hẹn gặp lại",
+        "bái bai ad nha",
+        "cảm ơn và chào tạm biệt",
+        "chúc một ngày tốt lành và tạm biệt",
+        "em sẽ liên hệ lại sau ạ",
+        "em sẽ quay lại sau",
+        "em sẽ tìm đến ad sau",
+        "em sẽ quay lại nếu có thêm câu hỏi"
+      ],
+      "responses": [
+        "Chúc bạn ngày mới tốt đẹp",
+        "Hẹn bạn một ngày tuyệt vời tại DANANG tourist ạ",
+        "Hy vọng bạn đã có câu trả lời tốt nhất cho mình , hẹn bạn một người đẹp trời tại DANANG tourist"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Cảm ơn ",
+        "thanks",
+        "tks",
+        "thank you",
+        "tks ad",
+        "cảm ơn đã giúp đỡ em",
+        "cảm ơn vì đã tư vấn ạ",
+        "em xin cảm ơn",
+        "cảm ơn bên mình vì nhiệt tình ạ"
+      ],
+
+      "responses": [
+        "cảm ơn vì bạn đã tin tưởng DANANG tourist ạ",
+        "mình rất vui vì đã giúp được bạn",
+        "mình rất hân hịnh khi được giúp bạn ạ",
+        "cảm ơn vì đã tin tưởng DANANG tourist ạ"
+      ]
+    },
+    {
+      "tag": "not_understand",
+      "patterns": [
+        "mình có được mua đồ không ",
+        "thời gian đi tốn nhiều không",
+        "điểm khác nhau giữa các hành khách trong đoàn",
+        "không muốn đi có bị sao không",
+        "làm sao để không được đi",
+        "muốn đề nghị đổi hành khách chung tour",
+        "tôi có được ưu tiên gì không",
+        "đi không cần đóng tiền được không",
+        "biết tôi là ai không",
+        "bạn có món gì ngon",
+        "ngày mai sẽ có mưa không",
+        "tôi muốn được đi ngủ",
+        "tôi không thích đi xe "
+      ],
+      "responses": [
+        "Xin lỗi, mình không thể hiểu được bạn đang nói gì . Bạn có thể giải thích chi tiết hơn được không ?",
+        "Mình không hiểu ý bạn lắm",
+        "xin lỗi nhưng bạn có thể giải thích chi tiết hơn không",
+        "bạn ơi , mình không hiểu ý của bạn lắm , mình mong bạn giải thích chi tiết hơn á ",
+        "Bạn có thể trình bày kĩ hơn những thắc mắc của bạn không ? mình xin lỗi vì bất tiện này"
+      ]
+    },
+    {
+      "tag": "HuongDanDangKi",
+      "patterns": [
+        "Làm thế nào để đăng ký được tour?",
+        "tôi muốn đăng kí tour thì phải làm như nào",
+        "Hướng dẫn cách đăng kí tour",
+        "Em muốn đăng kí tour thì phải làm những gì ạ",
+        "Cần làm gì để đăng kí tour ạ",
+        "bên mình còn cho đăng kí tour không ạ",
+        "Em cần tư vấn về đăng kí tour với ạ",
+        "Đăng kí tour làm như nào",
+        "phải làm gì để đăng kí tour"
+      ],
+      "responses": [
+        "bạn có thể đăng kí tour bên mình ,bạn có liên hệ với số điện thoại tổng đài 0858.752.736 bên mình tư vấn ạ,hoặc để lại thông tin số điện thoại ,để nhân viên bên mình tư vấn ạ. "
+      ]
+    },
+    {
+      "tag": "end_of_tour",
+      "patterns": [
+        "hạn cuối đăng kí tour là khi nào?",
+        "cần thông tin về hạn cuối đăng kí tour",
+        "Làm thế nào để biết hạn cuối đăng kí tour?",
+        "ad cho e hỏi ngày cuối để đăng kí tour là khi nào",
+        "Em cần biết về hạn cuối đăng kí tour ạ",
+        "Ngày mấy là hạn cuối đăng kí ad"
+      ],
+      "responses": [
+        "Hạn cuối đăng kí các tour sẽ là ngày 6 của tháng ạ. Đừng quên đăng kí sớm để có trải nghiệm vui chơi tốt nhất ạ."
+      ]
+    },
+    {
+      "tag": "Register",
+      "patterns": [
+        "tôi muốn đăng kí tour bên bạn?",
+        "bên bạn có những tour nào",
+        "có tour nào bên bạn không?",
+        "gợi ý tour bên bạn",
+        "loại tour bên bạn có"
+      ],
+      "responses": [
+        "A1,A2,A3(2 ngày 1 đêm),B1,B2,B3(3 ngày 2 đêm),C1,C2,C3(4 ngày 3 đêm),D1(5 ngày 4 đêm)"
+      ]
+    },
+    {
+      "tag": "majors_offered",
+      "patterns": [
+        "Các trải nghiệm tôi có thể có với tour của bạn?",
+        "Tôi muốn biết về các trải nghiệm tôi sẽ có được",
+        "Có những trải nghiệm gì?",
+        "Ad có thể giới thiệu cho em về vài nổi bật của tour mình với ạ",
+        "Em muốn tìm hiểu về các trải nghiệm của tour mình ạ",
+        "Các trải nghiệm của tour mình?",
+        "bên mình có các loại trải nghiệm gì ạ?"
+      ],
+      "responses": [
+        "Tour du lịch ở Đà Nẵng có thể bao gồm thăm các điểm du lịch nổi tiếng như Bà Nà Hills, Ngũ Hành Sơn, Cầu Rồng, và khu vực biển Mỹ Khê. Ngoài ra, bạn cũng có thể khám phá ẩm thực địa phương, tham gia các hoạt động giải trí, và thư giãn tại các resort ven biển."
+      ]
+    },
+    {
+      "tag": "accommodation",
+      "patterns": [
+        "tour đã bao gồm nơi nghỉ ngơi chưa ạ?",
+        "Thông tin về nơi nghỉ ngơi",
+        "Làm thế nào để chọn được nơi nghỉ ngơi?",
+        "tour của mình đã bao gồm cả nơi nghỉ rồi đúng không ad?",
+        "nơi nghỉ ngơi.",
+        "Chi phí của nơi nghỉ ngơi.",
+        "giá của nơi nghỉ ngơi được bao gồm trong tour rồi chứ ạ?",
+        "Địa chỉ nơi nghỉ ngơi ở đâu vậy ad?",
+        "Mức giá của nơi nghỉ ngơi.",
+        "Nơi nghỉ ngơi có hiện đại không ạ?"
+      ],
+      "responses": [
+        "Nơi nghỉ ngơi có nhiều loại phòng khác nhau ạ. Đối với {} thì giá qua đêm sẽ là {} đã được thanh toán khi đăng kí tour ạ."
+      ]
+    },
+    {
+      "tag": "outside_events",
+      "patterns": [
+        "tour có các hoạt động ngoài trời không ạ",
+        "Có sự kiện ngoài trời nào không?",
+        "Hoạt động ngoài trời khi nào vậy ad?",
+        "Hoạt động ngoài trời có gì hấp dẫn không ad?",
+        "tổ chức các sự kiện trong khi đi tour được không ạ ?.",
+        "Làm thế nào để tham gia hoạt động ngoài trời khi đi tour ạ?",
+        "Tôi muốn tổ chức sự kiện ngoài trời",
+        "tôi muốn tổ chức sinh nhật trong tour",
+        "tôi muốn tổ chức đám cưới trong tour"
+      ],
+      "responses": [
+        "Tour thường tổ chức các sự kiện như hoạt động ngoài trời nếu bạn có nhu cầu tham gia."
+      ]
+    },
+    {
+      "tag": "courses",
+      "patterns": [
+        "Có những tour nào được cung cấp bên bạn ?",
+        "Danh sách các tour bên bạn",
+        "Tôi muốn biết về các tour bên bạn."
+      ],
+      "responses": [
+        "DANAN tourist cung cấp hàng loạt tour và đa dạng thời gian cho bạn lựa chọn.Hiện nay có các tour A1,A2,A3,B1,B2,B3,C1,C2,C3,D1"
+      ]
+    },
+    {
+      "tag": "AnSang",
+      "patterns": [
+        "các món ăn được phục vụ khi đi tour?",
+        "đồ ăn của tour",
+        "Tôi muốn tìm hiểu về ẩm thực của tour.",
+        "Cho mình hỏi, tour bên mình có bao gồm đồ ăn chưa ạ",
+        "mình muốn trải nghiệm ẩm thực địa phương thì được không ad",
+        "các loại hình ẩm thực của tour"
+      ],
+      "responses": [
+        "Tour đã bao gồm dịch vụ ăn uống cho quý khách, Chúng ta sẽ trải nghiệm ẩm thực địa phương vào buổi sáng, còn các buổi còn lại quý khách sẽ được phục vụ ăn uống tại nhà hàng nổi tiếng của địa phương."
+      ]
+    },
+    {
+      "tag": "mountain",
+      "patterns": [
+        "Các địa điểm ngắm cảnh đẹp của Đà Nẵng?",
+        "Nơi ngắm cảnh đẹp của thành phố",
+        "Tôi muốn hỏi về những nơi ngắm cảnh đẹp.",
+        "Tour có đi những nơi ngắm cảnh đẹp không",
+        "Tôi muốn leo núi,tour có địa điểm leo núi nào không"
+      ],
+      "responses": [
+        "Tour sẽ tổ chức cho bạn ngắm cảnh ở các địa điểm có cảnh đẹp như :Sơn Trà,Đỉnh Bàn cờ , Bãi đá đen,..."
+      ]
+    },
+    {
+      "tag": "beach",
+      "patterns": [
+        "Các bãi biển đẹp của Đà Nẵng?",
+        "Nơi ngắm cảnh biển đẹp của thành phố",
+        "Tôi muốn hỏi về những bãi biển của thành phố.",
+        "Tour có đi các bãi biển không",
+        "Những bãi biển đẹp Đà Nẵng",
+        "Có tổ chức đi tham quan những bãi biển không?",
+        "Có tổ chức đi biển không"
+      ],
+      "responses": [
+        "Tour sẽ tổ chức cho bạn tham quan các bãi biển đẹp của Đà Nẵng như : biển mỹ khê,biển non nước,bãi rạn,..."
+      ]
+    },
+    {
+      "tag": "camping",
+      "patterns": [
+        "Có dịch vụ cắm trại không?",
+        "cắm trại khi đi tour",
+        "Tôi muốn biết về cắm trại trong tour được không ?",
+        "cho em hỏi đang đi tour thì mình tổ chức cắm trại được không ạ",
+        "Em muốn được tổ chức cắm trại ",
+        "em muốn hỏi tour mình có tổ chức cắm trại không ạ"
+      ],
+      "responses": ["Tour sẽ có tổ chức cắm trại ở duy nhất tour D1."]
+    },
+    {
+      "tag": "swim",
+      "patterns": [
+        "Được phép tắm biển không ?",
+        "Có được đi tắm biển không ?",
+        "Tôi muốn tham gia tắm biển.",
+        "Em muốn hỏi là tour mình được tắm  biển không?",
+        "em biết bơi thì có được đi tắm biển không ?",
+        "có tắm biển được không ?",
+        "tour có đi tắm biển không ?"
+      ],
+      "responses": ["Tất cả các tour đều có hoạt động tăm biển ạ."]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Có tour nào tham quan địa điểm không ?",
+        "tôi muốn tham quan điểm du lịch thì đi tour nào",
+        "những tour tham quan nào có địa điểm",
+        "địa điểm thì đi tour nào"
+      ],
+      "responses": ["Về điểm du lịch {},bên em có các tour {}. "]
+    },
+    {
+      "tag": "location_information",
+      "patterns": [
+        "tôi muốn tìm hiểu thông tin về địa điểm",
+        "chi tiết về địa điểm ",
+        "Cho tôi thông tin về địa điểm",
+        "địa điểm gồm những gì"
+      ],
+      "responses": ["Thông tin của {}:{}"]
+    },
+    {
+      "tag": "price",
+      "patterns": [
+        "cho em hỏi chi phí với ạ",
+        "Dạ ad cho em hỏi chi phí với ạ",
+        "Dạ ad cho em hỏi hết bao nhiêu với ạ",
+        "Ad cho em hỏi chi phí là như thế nào ạ",
+        "Tiền bao nhiêu",
+        "Chi phí phải trả của ",
+        "ad cho hỏi chi phí bao nhiêu tiền ",
+        "Tiền là bao nhiêu ",
+        "chi phí là mấy",
+        "Cho em hỏi chi phí là mấy",
+        "Dạ ad cho hỏi chi phí với",
+        "Ad cho em hỏi giá là bao tiền ạ",
+        "Tiền mấy tiền vậy",
+        "Chi phí là bao nhiêu thế",
+        "Dạ ad cho hỏi mấy tiền vậy ạ",
+        "Tổng tiền là mấy"
+      ],
+      "responses": ["giá thành cho {} là {} triệu đồng/1 người bạn nhé!"]
+    },
+    {
+      "tag": "LichTrinh",
+      "patterns": [
+        "cho em hỏi lịch trình ạ",
+        "Lịch trình bao gồm những điểm tham quan nào?",
+        "bao gồm những điểm đến nào?"
+      ],
+      "responses": ["Lịch trình của {} gồm những địa điểm sau {}"]
+    },
+    {
+      "tag": "Cancel_Tour",
+      "patterns": [
+        "Nếu hủy tôi sẽ được hoàn trả bao nhiêu tiền?",
+        "Nếu tôi hủy và chuyển đổi tour khác thì có được hoàn trả tiền tour không?",
+        "Hủy tour thì được trả bao nhiêu tiền",
+        "Tôi được trả lại bao nhiêu tiền nếu hủy "
+      ],
+      "responses": [
+        "Việc hủy Tour sẽ tùy vào thời điểm và tất cả trường hợp người cao tuổi , trẻ em đều hoàn lại 1 giá cố định ,đối với {} thì sẽ hoàn lại {}/1 người ạ"
+      ]
+    },
+    {
+      "tag": "discount",
+      "patterns": [
+        "Thông tin về sự kiện giảm giá",
+        "Đối tượng được giảm giá?",
+        "Giảm giá của tour bao gồm những gì ạ?",
+        "Trẻ con và người cao tuổi có được giảm giá không ?",
+        "Có giảm giá cho trẻ em tại DANANG tourist không?",
+        "Có giảm giá cho người cao tuổi tại DANANG tourist không?",
+        "Tôi muốn biết về chính sách giảm giá",
+        "ad ơi có những chính sách giảm giá nào không á"
+      ],
+      "responses": [
+        "Có nhiều loại giảm giá tại DANANG tourist lắm ạ, có giảm giá cho người lớn tuổi và trẻ em , lên đến 50% ."
+      ]
+    },
+    {
+      "tag": "Cut_price",
+      "patterns": [
+        "Giảm giá cho trẻ em ạ",
+        "Giảm giá cho người cao tuổi ạ",
+        "Trẻ em có được giảm giá đối với không ",
+        "Người cao tuổi có được giảm giá đối với không "
+      ],
+      "responses": [
+        "Việc giảm giá sẽ tùy thời điểm,Đối với {} thì giá sau khi giảm sẽ còn là {}"
+      ]
+    }
+  ]
+}

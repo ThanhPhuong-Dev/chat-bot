@@ -1,0 +1,83 @@
+{
+  "price": {
+    "Tour 2 ngày 1 đêm A1": "3.000.000",
+    "Tour 2 ngày 1 đêm A2": "3.200.000",
+    "Tour 2 ngày 1 đêm A3": "3.500.000",
+    "Tour 3 ngày 2 đêm B1": "4.000.000",
+    "Tour 3 ngày 2 đêm B2": "4.200.000",
+    "Tour 3 ngày 2 đêm B3": "4.500.000",
+    "Tour 4 ngày 3 đêm C1": "5.000.000",
+    "Tour 4 ngày 3 đêm C2": "5.200.000",
+    "Tour 4 ngày 3 đêm C3": "5.500.000",
+    "Tour 5 ngày 4 đêm D1": "7.500.000"
+  },
+  "LichTrinh": {
+    "Tour 2 ngày 1 đêm A1": "Ngũ Hành Sơn,Hội An, Bà Nà Hills",
+    "Tour 2 ngày 1 đêm A2": "Ngũ Hành Sơn, Sơn trà ,Cù Lao Chàm.",
+    "Tour 2 ngày 1 đêm A3": "Ngũ Hành Sơn ,Hội An,Cù Lao Chàm",
+    "Tour 3 ngày 2 đêm B1": "Đà Nẵng,Ngũ Hành Sơn,Hội An,Làng đá mĩ nghệ,Bán đảo sơn trà",
+    "Tour 3 ngày 2 đêm B3": "Đà Nẵng,Ngũ Hành Sơn ,Hội an,Cù Lao Chàm,Bà nà",
+    "Tour 4 ngày 3 đêm C1": "Đà Nẵng,Sơn trà,Bà Nà,Ngũ Hành Sơn,Rừng Dừa Bảy Mẫu , Hội an",
+    "Tour 4 ngày 3 đêm C2": "Đà Nẵng,Sơn Trà,Bà Nà,Ngũ Hành Sơn,Cù Lao Chàm,Hội An.",
+    "Tour 4 ngày 3 đêm C3": "Đà Nẵng,Chùa linh ứng,Ngũ Hành Sơn,Hội An,Cù Lao Chàm,Bà Nà.",
+    "Tour 5 ngày 4 đêm D1": "Đà Nẵng ,Chùa linh ứng ,Ngũ Hành Sơn,Hội An,Cù Lao Chàm,Bà Nà."
+  },
+  "Cut_price": {
+    "Trẻ em tour 2 ngày 1 đêm A1": "2.500.000 /1 trẻ",
+    "Trẻ em tour 3 ngày 2 đêm B1": "3.500.000 /1 trẻ",
+    "Trẻ em tour 4 ngày 3 đêm C1": "4.500.000 /1 trẻ",
+    "Trẻ em tour 5 ngày 4 đêm D1": "7.000.000 /1 trẻ",
+    "Trẻ em tour 2 ngày 1 đêm A2": "2.700.000 /1 trẻ",
+    "Trẻ em tour 3 ngày 2 đêm B2": "3.700.000 /1 trẻ",
+    "Trẻ em tour 4 ngày 3 đêm C2": "4.700.000 /1 trẻ",
+    "Trẻ em tour 2 ngày 1 đêm A3": "3.000.000 /1 trẻ",
+    "Trẻ em tour 3 ngày 2 đêm B3": "4.000.000 /1 trẻ",
+    "Trẻ em tour 4 ngày 3 đêm C3": "5.000.000 /1 trẻ",
+    "Người cao tuổi tour 2 ngày 1 đêm A1": "2.500.000 /1 người",
+    "Người cao tuổi tour 3 ngày 2 đêm B1": "3.500.000 /1 người",
+    "Người cao tuổi tour 4 ngày 3 đêm C1": "4.500.000 /1 người",
+    "Người cao tuổi tour 5 ngày 4 đêm D1": "7.000.000 /1 người",
+    "Người cao tuổi tour 2 ngày 1 đêm A2": "2.700.000 /1 người",
+    "Người cao tuổi tour 3 ngày 2 đêm B2": "3.700.000 /1 người",
+    "Người cao tuổi tour 4 ngày 3 đêm C2": "4.700.000 /1 người",
+    "Người cao tuổi tour 2 ngày 1 đêm A3": "3.000.000 /1 người",
+    "Người cao tuổi tour 3 ngày 2 đêm B3": "4.000.000 /1 người",
+    "Người cao tuổi tour 4 ngày 3 đêm C3": "5.000.000 /1 người"
+  },
+  "Cancel_Tour": {
+    "Tour 2 ngày 1 đêm A1": "1.000.000",
+    "Tour 2 ngày 1 đêm A2": "1.200.000",
+    "Tour 2 ngày 1 đêm A3": "1.500.000",
+    "Tour 3 ngày 2 đêm B1": "2.000.000",
+    "Tour 3 ngày 2 đêm B2": "2.200.000",
+    "Tour 3 ngày 2 đêm B3": "2.500.000",
+    "Tour 4 ngày 3 đêm C1": "3.000.000",
+    "Tour 4 ngày 3 đêm C2": "3.200.000",
+    "Tour 4 ngày 3 đêm C3": "3.500.000",
+    "Tour 5 ngày 4 đêm D1": "4.500.000"
+  },
+  "accommodation": {
+    "Tour 2 ngày 1 đêm:": "400.000 / 1 ngày",
+    "Tour 3 ngày 2 đêm:": "600.000 / 1 ngày",
+    "Tour 4 ngày 3 đêm:": "800.000 / 1 ngày",
+    "Tour 5 ngày 4 đêm:": "1.000.000 / 1 ngày"
+  },
+  "location": {
+    "My khue beach": "Tour B1,C1,D1",
+    "ngu hanh son": "Tour A2,C2,B2",
+    "bai but": "Tour C2,D2",
+    "ba na": "Tour A1,C2,B3",
+    "nui than tai": "Tour B2,C2,D1",
+    "rung dua bay mau": "Tour C2,D1,A2",
+    "cu lao cham": "D1,C1,B1"
+  },
+  "location_information": {
+    "My khue beach": "Nằm cách trung tâm thành phố Đà Nẵng chỉ tầm 3km,Được mệnh danh là một trong những bãi biển quyến rũ nhất hành tinh, Đến du lịch biển Mỹ Khê, bạn có thể hoàn toàn yên tâm tham gia các hoạt động dưới nước như bơi lội, tắm biển. Tại một bãi biển mà du lịch đang nở rộ như Mỹ Khê, đội ngũ nhân viên bảo hộ thường xuyên túc trực để đảm bảo được sự an toàn cho quá trình vui chơi của du khách.",
+    "ngu hanh son": "Cách Đà Nẵng khoảng 8km, Ngũ Hành Sơn, còn được gọi là Non Nước, là một khu danh thắng nổi tiếng với năm ngọn núi được tượng trưng cho năm yếu tố: Kim, Mộc, Thủy, Hỏa, Thổ. Du khách có thể thăm quan các hang động, đền chùa và thưởng thức khung cảnh đẹp.",
+    "bai but": "Khu du lịch Bãi Bụt chỉ mới được đưa vào khai thác từ năm 2012 nên so với chuỗi các khu bãi biển, ghềnh đá ven biển tại bán đảo thì nơi này vẫn còn giữ những nét hoang sơ. Đây được xem là một điểm đến dành cho những ai muốn khám phá thiên nhiên một cách trọn vẹn nhất với biển xanh, bãi cát trắng, nắng vàng và những ghềnh đá san hô nhấp nhô.",
+    "ba na": "Nằm ở độ cao 1.487m so với mực nước biển, Sun World Ba Na Hills được mênh danh là “chốn bồng lai tiên cảnh”, sở hữu khí hậu tuyệt vời cùng cảnh quan thiên nhiên kỳ thú. Đến với Sun World Ba Na Hills để trải nghiệm khí hậu 4 mùa trong một ngày cùng nhiều hoạt động lễ hội, vui chơi giải trí, ẩm thực hấp dẫn đa dạng..",
+    "nui than tai": "Công viên suối khoáng nóng Núi Thần Tài tọa lạc tại khu bảo tồn thiên nhiên Bà Nà Núi Chúa. Nguồn suối khoáng nóng tại Núi Thần Tài khởi nguồn từ đỉnh núi Bà Nà. Bao bọc hai bên là núi Thanh Long và Bạch Hổ. Nguồn suối nóng âm ỉ tích khoáng trong lòng đất và và phát lộ tại long huyệt tại thôn Phú Túc, xã Hòa Phú, huyện Hòa Vang, TP Đà Nẵng..",
+    "rung dua bay mau": "Rừng dừa Bảy Mẫu là khu du lịch sinh thái nổi tiếng ở Hội An. Đến đây, bạn sẽ được trải nghiệm ngồi thuyền thúng tham quan khu rừng dừa xanh mướt giữa không gian yên bình, được chiêm ngưỡng tiết mục múa thúng, đua thuyền và thưởng thức đặc sản địa phương…",
+    "cu lao cham": "Cụm đảo Cù Lao Chàm còn có tên gọi khác là Chiêm Bất Lao, gồm 1 hòn đảo chính và 8 hòn đảo nhỏ xung quanh. Đây là vùng cù lao có diện tích khoảng 15km2, thuộc địa phận thành phố Hội An, tỉnh Quảng Nam.Vì còn hoang sơ nên nơi đây có hệ sinh thái khá phong phú. Vào năm 2009, UNESCO đã công nhận nơi đây là một trong những khu dự trữ sinh quyển của thế giới. Từ đó, cụm đảo này đã được cấp phép khai thác và quảng bá du lịch."
+  }
+}
